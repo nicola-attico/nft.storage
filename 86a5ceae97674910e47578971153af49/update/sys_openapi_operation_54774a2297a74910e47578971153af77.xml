@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_openapi_operation">
+    <sys_openapi_operation action="INSERT_OR_UPDATE">
+        <complex_object_ids>18774a2297a74910e47578971153af6e,9c77862297a74910e47578971153af38,5077862297a74910e47578971153af37,dc774a2297a74910e47578971153af5d,5077862297a74910e47578971153af33,18774a2297a74910e47578971153af58,90774a2297a74910e47578971153af5c,1477862297a74910e47578971153af35,54774a2297a74910e47578971153af5a,d8774a2297a74910e47578971153af56</complex_object_ids>
+        <deprecated>false</deprecated>
+        <http_method>get</http_method>
+        <name>Check if a CID of an NFT is being stored by nft.storage.</name>
+        <openapi display_value="NFT Storage API - 1.0">0c77862297a74910e47578971153af30</openapi>
+        <path>/check/{cid}</path>
+        <serialized_operation>{"fName":"Check if a CID of an NFT is being stored by nft.storage.","fOperationId":"check","fDescription":"Includes the IPFS pinning state and the Filecoin deal state.","fPath":"/check/{cid}","fHttpMethod":"GET","fDeprecated":false,"fResponses":[{"fStatusCode":"200","fDescription":"OK","fContents":[{"fMediaType":"application/json","fSchema":{"fName":"responseapplicationjson2190978298","fReferencedName":"#/components/schemas/CheckResponse","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}}],"fHeaders":[]},{"fStatusCode":"404","fDescription":"Not Found","fContents":[{"fMediaType":"application/json","fSchema":{"fName":"responseapplicationjson7773420770","fReferencedName":"#/components/schemas/ErrorResponse","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}}],"fHeaders":[]},{"fStatusCode":"500","fDescription":"Internal Server Error","fContents":[{"fMediaType":"application/json","fSchema":{"fName":"responseapplicationjson2203659956","fReferencedName":"#/components/schemas/ErrorResponse","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}}],"fHeaders":[]}],"fParameters":[{"fName":"cid","fDescription":"CID for the NFT","fRequired":true,"fDeprecated":false,"fAllowEmptyValue":false,"fAllowReserved":false,"fParameterType":"path","fExplode":false,"fStyle":"simple","fContents":[{"fSchema":{"fName":"cid9721354369","fReferencedName":"#/components/schemas/CID","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}}]}]}</serialized_operation>
+        <sys_class_name>sys_openapi_operation</sys_class_name>
+        <sys_created_by>eugene</sys_created_by>
+        <sys_created_on>2022-05-21 23:39:23</sys_created_on>
+        <sys_id>54774a2297a74910e47578971153af77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Check if a CID of an NFT is being stored by nft.storage.</sys_name>
+        <sys_package display_value="nft.storage" source="x_snc_nft_storage">86a5ceae97674910e47578971153af49</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nft.storage">86a5ceae97674910e47578971153af49</sys_scope>
+        <sys_update_name>sys_openapi_operation_54774a2297a74910e47578971153af77</sys_update_name>
+        <sys_updated_by>eugene</sys_updated_by>
+        <sys_updated_on>2022-05-21 23:39:23</sys_updated_on>
+    </sys_openapi_operation>
+</record_update>

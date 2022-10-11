@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_nft_storage.nft_user" name="x_snc_nft_storage.nft_user">73b03d16978c5d10e47578971153af97</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>eugene</sys_created_by>
+        <sys_created_on>2022-06-14 23:53:09</sys_created_on>
+        <sys_id>88c03d16978c5d10e47578971153af98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>73b03d16978c5d10e47578971153af97</sys_name>
+        <sys_package display_value="nft.storage" source="x_snc_nft_storage">86a5ceae97674910e47578971153af49</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nft.storage">86a5ceae97674910e47578971153af49</sys_scope>
+        <sys_update_name>sys_embedded_help_role_88c03d16978c5d10e47578971153af98</sys_update_name>
+        <sys_updated_by>eugene</sys_updated_by>
+        <sys_updated_on>2022-06-14 23:53:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

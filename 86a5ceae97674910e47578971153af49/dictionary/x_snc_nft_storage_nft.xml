@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="NFT" max_length="40" name="x_snc_nft_storage_nft" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Attachment" max_length="40" name="attachment" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true,pdf_cell_type=image" label="NFT_Image" max_length="40" name="nft_image" type="user_image"/>
+    </element>
+</database>

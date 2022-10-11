@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="attachment_sys_id" label="attachment sys id" language="en" table="var__m_sys_hub_action_input_4cdf591a974c5d10e47578971153afdf">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>attachment_sys_id</element>
+            <help/>
+            <hint/>
+            <label>attachment sys id</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_4cdf591a974c5d10e47578971153afdf</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>eugene</sys_created_by>
+            <sys_created_on>2022-06-14 22:39:10</sys_created_on>
+            <sys_id>ccdf591a974c5d10e47578971153afe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>attachment sys id</sys_name>
+            <sys_package display_value="nft.storage" source="x_snc_nft_storage">86a5ceae97674910e47578971153af49</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="nft.storage">86a5ceae97674910e47578971153af49</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_4cdf591a974c5d10e47578971153afdf_attachment_sys_id_en</sys_update_name>
+            <sys_updated_by>eugene</sys_updated_by>
+            <sys_updated_on>2022-06-14 22:39:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD9cd6ec8b46589510a8c52c64c1e2e63f</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>86a5ceae97674910e47578971153af49</scope_name>
+        <serialized_content>{"FlowDesigner:FD9cd6ec8b46589510a8c52c64c1e2e63f":{"ok":"String","ok.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"ok\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"55a81afd-c7d1-47d3-81b8-8ff5d3bef149\"}"},"value":{"data":{"image":"String","image.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"image\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"e4f91c4c-ab7b-4b9d-b5a1-7ea7032acfdf\"}"},"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"7b85eadc-5888-49ba-a8f9-5865a019ac98\"}"},"properties":{"videoClip":"String","videoClip.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"videoClip\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"b7a76f82-7436-45e5-ba8b-97b4755f663a\"}"}},"properties.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"properties\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"b7401f26-d518-4f6f-b16d-bd72ca2d1f62\"}"}},"data.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"data\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"7ffa5a85-19d0-4713-bec8-42f448c6e734\"}"},"ipnft":"String","ipnft.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"ipnft\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"337cb9b6-4076-4b73-9335-ff73240fd3e6\"}"},"url":"String","url.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"url\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"deaad962-63b2-4242-a125-e62446638718\"}"}},"value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"value\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"18052fd1-c2bb-4178-86c1-630abfae806c\"}"}},"FlowDesigner:FD9cd6ec8b46589510a8c52c64c1e2e63f.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"root\",\"mandatory\":\"false\",\"uiUniqueId\":\"c671bbcb-bcd7-4ade-a92f-a0bdc917a801\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD9cd6ec8b46589510a8c52c64c1e2e63f\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-29 12:41:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>50d6ec8b97589510e47578971153af40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD9cd6ec8b46589510a8c52c64c1e2e63f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="nft.storage" source="x_snc_nft_storage">86a5ceae97674910e47578971153af49</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nft.storage">86a5ceae97674910e47578971153af49</sys_scope>
+        <sys_update_name>sys_complex_object_50d6ec8b97589510e47578971153af40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-29 12:41:17</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_openapi_operation">
+    <sys_openapi_operation action="INSERT_OR_UPDATE">
+        <complex_object_ids>18774a2297a74910e47578971153af6e,90774a2297a74910e47578971153af79,54774a2297a74910e47578971153af5a,d8774a2297a74910e47578971153af56,d8774a2297a74910e47578971153af7c,18774a2297a74910e47578971153af7e,9c77862297a74910e47578971153af38,5077862297a74910e47578971153af37,dc774a2297a74910e47578971153af5d,5077862297a74910e47578971153af33,50774a2297a74910e47578971153af82,18774a2297a74910e47578971153af58,90774a2297a74910e47578971153af5c,1477862297a74910e47578971153af35</complex_object_ids>
+        <deprecated>false</deprecated>
+        <http_method>post</http_method>
+        <name>Get a root UCAN.</name>
+        <openapi display_value="NFT Storage API - 1.0">0c77862297a74910e47578971153af30</openapi>
+        <path>/ucan/token</path>
+        <serialized_operation>{"fName":"Get a root UCAN.","fDescription":"This endpoint returns a root UCAN for nft.storage.\nThe UCAN will be valid for **two weeks** and has full capabilities. The JWT payload will looking similar to this:\n  \n```json\n{\n  \"att\": [\n    {\n      \"with\": \"storage://did:key:z6MkheUPoHhYRS5LoHbbttpaTkkxvFFFUV5VPSziwTJmbb7D\",\n      \"can\": \"upload/*\"\n    }\n  ],\n  \"exp\": 1646668606,\n  \"iss\": \"did:key:z6MkheUPoHhYRS5LoHbbttpaTkkxvFFFUV5VPSziwTJmbb7D\",\n  \"prf\": []\n}\n```\n\nA valid UCAN can be used for authorization in this endpoint.\n","fPath":"/ucan/token","fHttpMethod":"POST","fDeprecated":false,"fResponses":[{"fStatusCode":"200","fDescription":"OK","fContents":[{"fMediaType":"application/json","fSchema":{"fName":"responseapplicationjson4543187649","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"object","fProperties":[{"fName":"ok","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"boolean","fProperties":[],"fOneOf":[],"fDefault":true,"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"boolean"},{"fName":"value","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"string","fProperties":[],"fOneOf":[],"fDescription":"Root UCAN.","fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"string"}],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}}],"fHeaders":[]},{"fStatusCode":"400","fDescription":"Bad Request","fContents":[{"fMediaType":"application/json","fSchema":{"fName":"responseapplicationjson0533160904","fReferencedName":"#/components/schemas/DidNotFoundErrorResponse","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}}],"fHeaders":[]},{"fStatusCode":"500","fDescription":"Internal Server Error","fContents":[{"fMediaType":"application/json","fSchema":{"fName":"responseapplicationjson7743805505","fReferencedName":"#/components/schemas/ErrorResponse","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}}],"fHeaders":[]}],"fParameters":[]}</serialized_operation>
+        <sys_class_name>sys_openapi_operation</sys_class_name>
+        <sys_created_by>eugene</sys_created_by>
+        <sys_created_on>2022-05-21 23:39:23</sys_created_on>
+        <sys_id>5c774a2297a74910e47578971153af83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get a root UCAN.</sys_name>
+        <sys_package display_value="nft.storage" source="x_snc_nft_storage">86a5ceae97674910e47578971153af49</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nft.storage">86a5ceae97674910e47578971153af49</sys_scope>
+        <sys_update_name>sys_openapi_operation_5c774a2297a74910e47578971153af83</sys_update_name>
+        <sys_updated_by>eugene</sys_updated_by>
+        <sys_updated_on>2022-05-21 23:39:23</sys_updated_on>
+    </sys_openapi_operation>
+</record_update>

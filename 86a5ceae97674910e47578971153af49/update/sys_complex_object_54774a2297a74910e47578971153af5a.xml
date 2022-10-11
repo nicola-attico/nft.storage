@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>ForbiddenErrorResponse</name>
+        <namespace>NFTStorageAPI10</namespace>
+        <scope_name>86a5ceae97674910e47578971153af49</scope_name>
+        <serialized_content>{"NFTStorageAPI10:ForbiddenErrorResponse":{"error":{"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"HTTP Error\"}"},"message":"String","message.$field_facets":{"SimpleChoiceFacet":"{\"complex_choice_map_key$\":{},\"choice_map_key$\":{\"Token is not valid\":\"Token is not valid\",\"Session expired\":\"Session expired\"}}"}},"ok":"Boolean","ok.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"false\"}"}}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>eugene</sys_created_by>
+        <sys_created_on>2022-05-21 23:39:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>54774a2297a74910e47578971153af5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ForbiddenErrorResponse</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="nft.storage" source="x_snc_nft_storage">86a5ceae97674910e47578971153af49</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nft.storage">86a5ceae97674910e47578971153af49</sys_scope>
+        <sys_update_name>sys_complex_object_54774a2297a74910e47578971153af5a</sys_update_name>
+        <sys_updated_by>eugene</sys_updated_by>
+        <sys_updated_on>2022-05-21 23:39:23</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
